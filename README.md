@@ -83,7 +83,7 @@ One account and one feed, wherever you listen.
 
 ## About
 
-ttsCast is designed and built by one person, [Jimmy](https://github.com/JimmysDev). If something isn't working or you have a question, [write to support](https://ttscast.app/support) and a human answers.
+If something isn't working or you have a question, [write to support](https://ttscast.app/support) and a human answers.
 
 [Website](https://ttscast.app) · [Pricing](https://ttscast.app/pricing) · [Privacy](https://ttscast.app/privacy) · [Terms](https://ttscast.app/terms) · [Support](https://ttscast.app/support)
 
