@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ttscast.jimmys.dev">
+  <a href="https://ttscast.app">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.png">
       <img src="assets/hero-light.png" width="830" alt="ttsCast. Your articles, read aloud by voices worth listening to. An iPhone shows the ttsCast player narrating an article.">
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://ttscast.jimmys.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-website-dark.png"><img src="assets/button-website-light.png" height="44" alt="Visit the website"></picture></a>
+  <a href="https://ttscast.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-website-dark.png"><img src="assets/button-website-light.png" height="44" alt="Visit the website"></picture></a>
   &nbsp;
   <a href="https://addons.mozilla.org/en-US/firefox/addon/ttscast-helper/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-firefox-dark.png"><img src="assets/button-firefox-light.png" height="44" alt="Add to Firefox"></picture></a>
   &nbsp;
@@ -62,7 +62,7 @@ Coming soon to the App Store. Share from Safari, or browse in a built-in browser
 
 **Just the article.** Menus, captions and ads are removed before narration, so you hear the piece and nothing else.
 
-**Free to start.** 60 minutes when you sign up, then 30 minutes every month. No card needed. Plans are sold in minutes of audio, and the details are on the [pricing page](https://ttscast.jimmys.dev/pricing).
+**Free to start.** 60 minutes when you sign up, then 30 minutes every month. No card needed. Plans are sold in minutes of audio, and the details are on the [pricing page](https://ttscast.app/pricing).
 
 <br>
 
@@ -72,7 +72,7 @@ One account and one feed, wherever you listen.
 
 | Platform | Status |
 |:--|:--|
-| **Web app** | Available now at [ttscast.jimmys.dev](https://ttscast.jimmys.dev) |
+| **Web app** | Available now at [ttscast.app](https://ttscast.app) |
 | **Podcast feed** | Available now, included with every account |
 | **Firefox** | Available now: [Add to Firefox](https://addons.mozilla.org/en-US/firefox/addon/ttscast-helper/) |
 | **iPhone** | Coming soon to the App Store |
@@ -83,8 +83,8 @@ One account and one feed, wherever you listen.
 
 ## About
 
-ttsCast is designed and built by one person, [Jimmy](https://github.com/JimmysDev). If something isn't working or you have a question, [write to support](https://ttscast.jimmys.dev/support) and a human answers.
+ttsCast is designed and built by one person, [Jimmy](https://github.com/JimmysDev). If something isn't working or you have a question, [write to support](https://ttscast.app/support) and a human answers.
 
-[Website](https://ttscast.jimmys.dev) · [Pricing](https://ttscast.jimmys.dev/pricing) · [Privacy](https://ttscast.jimmys.dev/privacy) · [Terms](https://ttscast.jimmys.dev/terms) · [Support](https://ttscast.jimmys.dev/support)
+[Website](https://ttscast.app) · [Pricing](https://ttscast.app/pricing) · [Privacy](https://ttscast.app/privacy) · [Terms](https://ttscast.app/terms) · [Support](https://ttscast.app/support)
 
 <sub>© 2026 ttsCast. All rights reserved. This repository is a showcase page and contains no source code; ttsCast is not open source. Article titles and publication names shown in screenshots belong to their respective owners and appear only as items in a reading list. iPhone and App Store are trademarks of Apple Inc. Firefox is a trademark of the Mozilla Foundation.</sub>
