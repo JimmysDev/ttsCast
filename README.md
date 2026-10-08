@@ -15,11 +15,13 @@
 </p>
 
 <p align="center">
-  <a href="https://ttscast.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-website-dark.png"><img src="assets/button-website-light.png" height="44" alt="Visit the website"></picture></a>
-  &nbsp;
-  <a href="https://addons.mozilla.org/en-US/firefox/addon/ttscast-helper/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-firefox-dark.png"><img src="assets/button-firefox-light.png" height="44" alt="Add to Firefox"></picture></a>
-  &nbsp;
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-appstore-soon-dark.png"><img src="assets/button-appstore-soon-light.png" height="44" alt="Coming to the App Store"></picture>
+  <a href="https://apps.apple.com/app/id6756911218"><img src="assets/badge-app-store.svg" width="144" alt="Download on the App Store"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://addons.mozilla.org/en-US/firefox/addon/ttscast-helper/"><img src="assets/badge-firefox-addon.svg" width="140" alt="Get the Add-on for Firefox"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://chromewebstore.google.com/detail/ttscast-helper/empcflcjhejmecifoplmlaeffjchlida"><img src="assets/badge-chrome-web-store.png" width="162" alt="Available in the Chrome Web Store"></a>
+</p>
+
+<p align="center">
+  Or use it on the web at <a href="https://ttscast.app">ttscast.app</a>.
 </p>
 
 <br>
@@ -33,7 +35,7 @@
   </picture>
 </p>
 
-1. **Send an article.** Send the page you're reading with one click from the Firefox extension, signed in as you. On iPhone, share from Safari or open pages in the app's built-in browser. You can also paste the text.
+1. **Send an article.** Send the page you're reading with one click from the Firefox or Chrome extension, signed in as you. On iPhone, share from Safari or open pages in the app's built-in browser. You can also paste the text.
 2. **We narrate it.** Menus, captions and ads are stripped out, then a large voice model narrates the article in full quality, which takes a few minutes. In a hurry? A faster voice starts streaming within seconds.
 3. **Listen anywhere.** Play it in the web app, or subscribe to your private feed in any podcast player you already use.
 
@@ -48,7 +50,7 @@
   </picture>
 </p>
 
-Coming soon to the App Store. Share from Safari, or browse in a built-in browser that uses your own logins. Line up what's next in a queue, control playback from the lock screen, and set a sleep timer.
+[Download ttsCast on the App Store](https://apps.apple.com/app/id6756911218). Share from Safari, or browse in a built-in browser that uses your own logins. Line up what's next in a queue, control playback from the lock screen, and set a sleep timer.
 
 <br>
 
@@ -74,9 +76,9 @@ One account and one feed, wherever you listen.
 |:--|:--|
 | **Web app** | Available now at [ttscast.app](https://ttscast.app) |
 | **Podcast feed** | Available now, included with every account |
-| **Firefox** | Available now: [Add to Firefox](https://addons.mozilla.org/en-US/firefox/addon/ttscast-helper/) |
-| **iPhone** | Coming soon to the App Store |
-| **Chrome** | Coming soon |
+| **iPhone** | Available now: [Download on the App Store](https://apps.apple.com/app/id6756911218) |
+| **Firefox** | Available now: [Get the Add-on](https://addons.mozilla.org/en-US/firefox/addon/ttscast-helper/) |
+| **Chrome** | Available now: [Chrome Web Store](https://chromewebstore.google.com/detail/ttscast-helper/empcflcjhejmecifoplmlaeffjchlida) |
 | **Android** | Coming later. The web app and your feed work on Android phones today |
 
 <br>
@@ -87,4 +89,4 @@ If something isn't working or you have a question, [write to support](https://tt
 
 [Website](https://ttscast.app) · [Pricing](https://ttscast.app/pricing) · [Privacy](https://ttscast.app/privacy) · [Terms](https://ttscast.app/terms) · [Support](https://ttscast.app/support)
 
-<sub>© 2026 ttsCast. All rights reserved. This repository is a showcase page and contains no source code; ttsCast is not open source. Article titles and publication names shown in screenshots belong to their respective owners and appear only as items in a reading list. iPhone and App Store are trademarks of Apple Inc. Firefox is a trademark of the Mozilla Foundation.</sub>
+<sub>© 2026 ttsCast. All rights reserved. This repository is a showcase page and contains no source code; ttsCast is not open source. Article titles and publication names shown in screenshots belong to their respective owners and appear only as items in a reading list. iPhone and App Store are trademarks of Apple Inc. Firefox is a trademark of the Mozilla Foundation. Chrome and Chrome Web Store are trademarks of Google LLC.</sub>
